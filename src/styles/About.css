@@ -1,0 +1,14 @@
+.text-container {
+  width: 600px;
+}
+
+.icon-text-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.icon-text-container h3 {
+  margin-left: 10px;
+}
